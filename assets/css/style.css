@@ -542,7 +542,7 @@ section {
   width: 100%;
   text-align: center;
 }
-.counts .count-box span {
+.counts .count-box div.countNumber {
   font-size: 48px;
   line-height: 48px;
   display: block;
